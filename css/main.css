@@ -165,9 +165,17 @@ section {
   background: #f7f7f7;
 }
 
-.portfolio-container a img {
+.portfolio a {
+  margin: 0;
+}
+
+.portfolio-container img {
   border-radius: 1em;
   margin-bottom: 2em;
+}
+
+.work-link {
+  display: inline-block;
 }
 
 .about {
